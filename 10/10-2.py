@@ -170,4 +170,3 @@ def valid(index):
         return s
 
 print(valid(len(x)-1))
-
